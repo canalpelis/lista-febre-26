@@ -4,5 +4,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_w.jpg" group-title="▶️ Latinos ★",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Cúcuta Retro TV" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55110183232_2dfc5b0951.jpg" group-title="▶️ Latinos ★",Cúcuta Retro TV
+https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+
+
+
 
 
