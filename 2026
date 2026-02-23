@@ -7,6 +7,11 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cúcuta Retro TV" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55110183232_2dfc5b0951.jpg" group-title="▶️ Latinos ★",Cúcuta Retro TV
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical TV" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111341089_4a3f17d5be.jpg" group-title="▶️ Latinos ★",Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La 1 (720p)" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111497115_925d344b0a.jpg" group-title="▶️ Latinos ★",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 
 
