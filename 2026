@@ -1,782 +1,217 @@
 
 #EXTM3U
 
-lista runhosting
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Prepago" tvg-logo="data:image/jpeg;base64,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" group-title="🍿 | 24/7 SERIES TELENOVELAS",24/7 La Prepago
-http://diversionsinlimites.info:8080/live/CarlosGarcia1./AjgJakuBja26./546347.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/57238.v6.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULARISIMA ESTEREO
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/57238.v6.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULARISIMA ESTEREO
 https://radiohd.streaminghd.co:7390/stream
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/revistaelcrisol.com/wp-content/uploads/2017/03/1a-uis.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UIS ESTEREO
-http://emisoras.uis.edu.co:8000/mp3am
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671009389139140608/_chkFAwe_400x400.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOPETRAN ESTEREO
+#EXTINF:-1
+tvg-logo="https://pbs.twimg.com/profile_images/671009389139140608/_chkFAwe_400x400.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOPETRAN ESTEREO
 http://62.210.38.137:8320/;
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000722622142-9okd1m-t500x500.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UNI NORTE
-https://cactus2.uninorte.edu.co/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/Voces-Rovirenses.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | VOCES ROVIRENSES
+#EXTINF:-1
+tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/Voces-Rovirenses.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | VOCES ROVIRENSES
 http://163.172.198.16:8626/index.html.mp3
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/-3333.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CANTAR DE LOS ANDES
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/-3333.jpg" group-title="EMISORAS
+COLOMBIA⭐⭐⭐", COLOMBIA | CANTAR DE LOS ANDES
 http://62.210.38.137:8108/web/;web.mp3
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UOf8IWZSh7ax6FCEe4RgEgB2zt2ABUCdSvIi-asmJf_ChOC5E2QxeEKTjnIkCncH9uo" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA VIEJOTECA
-https://radio30.virtualtronics.com/proxy/laviejotecadejulio?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/arriba-colombia-2832.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ARRIBA COLOMBIA
-http://cdn.instream.audio:9137/stream
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/09/San-Sebastian-92.7-FM.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO SAN SEBASTIAN
+#EXTINF:-1
+tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/09/San-Sebastian-92.7-FM.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO SAN SEBASTIAN
 https://laradiossl.online:8006/;
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s255793/images/logog.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | PAMPLONA RADIO
-https://host.audiolatam.com/8062/stream
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/fiesta-5100.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO FIESTA
-https://22823.live.streamtheworld.com/FIESTA_CUCUTAAAC.aac
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-surcolombiana-2213.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SUR COLOMBIANA NEIVA
-http://198.27.83.198:5562/stream
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/08/Soy-Colombiano.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOY COLOMBIANO
-http://albireo.shoutca.st:8453/stream
-
-#EXTINF:-1 tvg-logo="https://airesdecolombiaradio.com/wp-content/uploads/2021/10/LOGO-AIRES-DE-COLOMBIA-768x432.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | AIRES DE COLOMBIA
-https://play10.tikast.com:20027/stream
-
-#EXTINF:-1 tvg-logo="https://emisoras-en-vivo.co/assets/image/radio/180/radio-santa-barbara.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SANTA BARBARA
-http://sc1.cehis.net:8010/stream
-
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/23035.v8.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CRISTALINA
-http://149.56.147.197:9641/cNeiva
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-reloj-5197.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO RELOJ
-https://securestreams.eu:1296/stream.mp3
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vExeMZbbSU.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | HUILA ESTEREO
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vExeMZbbSU.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | HUILA ESTEREO
 https://radiohd.streaminghd.co:7220/stream
-
-#EXTINF:-1 tvg-logo="https://emisoras-en-vivo.co/assets/image/radio/180/tropirecuerdos.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | TROPI-RECUERDOS
-https://virtualtronics.net/proxy/leridatolima?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/628985503405240322/7K88L8MK.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | NOSTALGIA RADIO
-https://emisorasvirtuales.com.co:9003/live
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217226564414451715/CRT60UlL_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MUSICA LLANERA
+#EXTINF:-1
+tvg-logo="https://pbs.twimg.com/profile_images/1217226564414451715/CRT60UlL_400x400.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MUSICA LLANERA
 http://192.99.203.81:8704/stream
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/esperanza-colombia-radio-1542-v1.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ESPERANZA COLOMBIA RADIO
-https://streamall.alsolnet.com/esperanzaradio
-
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/colmundo-radio-2971.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | COLMUNDO RADIO
-http://142.4.2.72:9992/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pmLNBU7eayE/maxresdefault.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO IPUC
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pmLNBU7eayE/maxresdefault.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO IPUC
 https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s86596/images/logod.png?t=3" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MELODIA ESTEREO
-https://i40.letio.com/7000.aac
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-tiempo-567-v1.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO TIEMPO
-https://i20.letio.com/9144.aac
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/6cb8c4f4fded08c17a57e5086a12927a.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA CARIÑOSA
-https://20823.live.streamtheworld.com/LA_CARINOSA_BOGAAC_SC
-
-#EXTINF:-1 tvg-logo="https://files.rcnradio.com/public/migration/Colombianisima-radio-en-vivo.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RCN RADIO
-https://20833.live.streamtheworld.com/RCN_RADIO_FMAAC.aac
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1309308671470559234/3EaRd_iK_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | W RADIO
-https://24863.live.streamtheworld.com/WRADIO_SC
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/folklorica-estereo-397-v1.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | FOLKLORICA ESTEREO
-https://radio30.virtualtronics.com/proxy/folklorica?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/Voces-Rovirenses.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | VOCES ROVIRENSES
-https://play10.tikast.com/proxy/vocesrovirenses?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1400465763178205186/SvKXhNwk_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA FM
-https://20823.live.streamtheworld.com/LA_FM_CUCUTA_SC
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/blu-radio-563-v1.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | BLU RADIO
-https://15123.live.streamtheworld.com/BLURADIO_SC
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtIrQLwaqOfmjbDepNDQPvnjZvqqihfBXQKqqID8JU8QGVXihSVC0jCXdLAlwkFpQiIw&usqp=CAU" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | OLIMPICA ESTEREO
-https://i20.letio.com/9134.aac
-
-#EXTINF:-1 tvg-logo="https://www.radiouno.com.co/wp-content/themes/radio1/media/img/logo-radio1.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO UNO
-https://21933.live.streamtheworld.com/RADIO_UNO_NEIVA_SC
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/XPWyNYTu5S.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | TROPICANA
-https://22983.live.streamtheworld.com/TR_BUCARAMANGA_SC
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9xtafpwbdg5b.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | BESAME
-https://24063.live.streamtheworld.com/BESAME_CUCUTA_SC
-
-#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/0a/c0/20592/c300.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CARACOL RADIO
-https://25093.live.streamtheworld.com/CARACOL_RADIOAAC_SC
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s132610g.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | EL SOL
-https://21933.live.streamtheworld.com/EL_SOL_BOGAAC_SC
-
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-la-mega.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA MEGA
-https://20823.live.streamtheworld.com/LA_FM_BUCARAMANGA_SC
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Popular-Stereo-95.5.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULAR ESTEREO
+#EXTINF:-1
+tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Popular-Stereo-95.5.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULAR ESTEREO
 https://radio30.virtualtronics.com/proxy/popularst?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/b5/d5b52aa91609649ec2fcfc30283c6275.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO MUNDIAL ADVENTISTA
-https://n0d.radiojar.com/aesy2chkb?rj-ttl=5&rj-tok=AAABfKpdoRgA0zHAFBaTz25Hww
-
-#EXTINF:-1 tvg-logo="https://www.erescristiano.com/wp-content/uploads/2018/09/biblia-audio.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | BIBLIA NARRADA
-http://stream.zeno.fm/2bkm8ca9bshvv
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fhdxubwtg56b.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | NITRO ESTEREO
-http://real2.streaming-co.com:8765/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KbpyMAXDLe.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | B-VIRTUAL
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KbpyMAXDLe.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | B-VIRTUAL
 http://stream1.305stream.com:8240/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x72fqhwc7vbe.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ECOS DEL TORBE
-http://ur58.lorini.net:50006/ECOSDELTORBE
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qSWhvZZCgY.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ONDA LA SUPERESTACION
-https://acp4.lorini.net/proxy/ur2060?mp=%2Fstream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pZSf7mCeVE.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO REGGAE EN VIVO
-http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3?listen.pls
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gajfbb8apbqk.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | REGGAE KING RADIO
-http://198.178.123.17:10196/stream/1/
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/panpaujmwhwy.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ROKIT RADIO JAZZ
-http://streaming03.zfast.co.uk:8027/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuqyzshnt5tw.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | JAZZ EN VIVO
-http://daniel.torontocast.com:2450/stream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vus6nx8r2m69.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | KISS JAZZ EN VIVO
-https://fred.torontocast.com:2515/stream
-
-#EXTINF:-1 tvg-logo="https://lavozdelebrija.com/wp-content/uploads/2021/09/logopag.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA VOZ DE LEBRIJA
-https://play10.tikast.com/proxy/lebrija?mp=/stream%E2%80%A8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="COLOMBIA ⭐", COLOMBIA HQ | UNO PLAY
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a4119b9db2c7cc260792ab528324bac8.webp" group-title="COLOMBIA ⭐", COLOMBIA HQ | MUNDO DE LA MUSICA
-https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mJXBuAZ.png" group-title="Venezuela", Canal i (1080p)
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://play.myplaytv.com/uploads/images/channel_27_1536900830_thumb.png" group-title="Venezuela", Canal Nubeh TV (720p)
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="COLOMBIA ⭐", COLOMBIA HQ | UNO PLAY
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a4119b9db2c7cc260792ab528324bac8.webp" group-title="COLOMBIA ⭐", COLOMBIA HQ | MUNDO DE LA MUSICA
-https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Israel", Hidabroot (576p)
-https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Israel", Israel Pars TV (540p)
-https://live.pars-israel.com/iptv/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="PLUTO LATINO", CINE.AR (720p)
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="hxxps://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="PLUTO LATINO", CinePride (720p)
-https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="PLUTO LATINO", Cinevision Canal 19 (720p)
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="PLUTO LATINO", CinePride (720p)
-https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
-
-#EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzI4NjE5OTZf?inline=1" group-title="PLUTO LATINO", Cinevault Westerns (540p)
-https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="PLUTO LATINO", Classic Cinema (240p)
-https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9b0cc12d-a2e0-4a7b-bec4-31c00a4c499f-small3x1_STIRR_Logo_0520_Cinehouse_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="PLUTO LATINO", STIRR Cinehouse (720p)
-https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="PLUTO LATINO", STIRR CineLife (1080p)
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="El Salvador", WOW TV (720p)
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="El Salvador", Canal 33 (1080p)
-https://tna5.bozztv.com/OrbitaFM/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="Colombia", Cali TV (Santiago de Cali | Valle del Cauca) (540p)
+#EXTINF:-1
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest"
+group-title="Colombia", Cali TV (Santiago de Cali | Valle del Cauca) (540p)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Colombia", TVN Global (614p)
-https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Colombia", UNO PLAY (720p)
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-
-https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="ENTRETENIMIENTO", 3ABN Latino (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="ENTRETENIMIENTO", Euronews en Español (720p)
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="ENTRETENIMIENTO", Canela TV (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="ENTRETENIMIENTO", El Conflecto (480p)
-https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="ENTRETENIMIENTO", CinePride (720p)
-https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="ENTRETENIMIENTO", Estrella News (1080p)
-https://canalpelistv.herokuapp.com/iptv-query?streaming-ip=https://estrellanews-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="ENTRETENIMIENTO", Euronews en Español (720p)
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="ENTRETENIMIENTO", Moovimex (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Majestad Televisión (480p)
-https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ENTRETENIMIENTO", MyTime movie network Mexico (720p)
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png"
+group-title="ENTRETENIMIENTO", MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9Gxavk.png" group-title="ENTRETENIMIENTO", SonLife Broadcasting (SBN) (720p)
-https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", 21 Mix
 https://t2.tvmak.com/tv/RTV21MIX.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", 21 Plus
 https://t2.tvmak.com/tv/RTV21PLUS.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AA NewYork TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AA
+NewYork TV
 https://t2.tvmak.com/tv/AANEWYORK.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Al-Hurra
-https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/master_2596.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Al-Hurra Iraq
-https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/master_2596.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Al-Rasheed
-https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Al-Sharqiya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",
+Al-Sharqiya
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1408172924.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Al-Sharqiya News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",
+Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", ALB Swiss
-https://t2.tvmak.com/tv/ALBSWISS.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AlbFilm 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AlbFilm
+1
 https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AlbFilm 2
-https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AlbKanale Music TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",
+AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AlbTV Chicago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AlbTV
+Chicago
 https://t2.tvmak.com/tv/ALBTVCHICAGO.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Alsat M
-https://t2.tvmak.com/tv/ALSATM.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", ATN Europe
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", AXS TV NOW
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Beteve
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Canalcosta TV
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Carolina TV
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Cekmeköy TV
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", CostadelSol TV
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", dorf tv
-https://stream.openplayout.org/hls/dorf_high/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", DRT TV
-https://broadcasttr.com:446/drt/bant1/chunklist_w172830844.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", ESTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=461
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Flutura TV
-https://t2.tvmak.com/tv/fluturatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Freebie TV (720p)
-https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Hi Music
 https://t2.tvmak.com/tv/himusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Impact Wrestling
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Istogu Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Istogu
+Channel
 https://t2.tvmak.com/tv/ISTOGUchannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", KulturMD Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Lausitzwelle Fernsehen
-https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", MDF.1 Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Motorvision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",
+Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", MRT2
 https://t2.tvmak.com/tv/MRT2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", MTV Kosova
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", MTV
+Kosova
 https://t2.tvmak.com/tv/mtvkosova.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Mundo TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", OK Salzwedel
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Plus TV
-https://t2.tvmak.com/tv/plustelevision.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Red TV
-https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Rete 7
-https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Retro Plus 2 HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Retro Plus HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", RFH Harz
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", RheinMain TV
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", RTV Herceg-Bosne
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Sandzak TV
-https://vod1.laki.eu/sandzak/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Seenluft24
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Shenja TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Shenja
+TV
 https://t2.tvmak.com/tv/TVSHENJA.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Shota TV
 https://t2.tvmak.com/tv/SHOTATV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Sonus FM TV
-https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Space Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Spin TV
-https://t2.tvmak.com/tv/SPINTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Star Plus
 https://t2.tvmak.com/tv/STARPLUS.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Super TV Media
-https://mirtv.club/live/mirtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Teleonuba
-https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", teltOwkanal
-https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Temple TV
-https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Tide TV
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Turbo Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Turbo
+Channel
 https://t2.tvmak.com/tv/turbochannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV1 Channel
-https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV 2
 https://t2.tvmak.com/tv/TV2GV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Brusque
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV
+Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8
+df00d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Era
 https://t2.tvmak.com/tv/TVERA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Festa
-https://t2.tvmak.com/tv/TVFESTA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Halle
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Kopliku
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV
+Kopliku
 https://t2.tvmak.com/tv/TVKOPLIKU.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Max
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Pollogu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV
+Pollogu
 https://t2.tvmak.com/tv/USKANATETOVE.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Presheva
-https://t2.tvmak.com/tv/rtvpresheva.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Prizreni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV
+Prizreni
 https://t2.tvmak.com/tv/TVPRIZRENI.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV União (720p)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV Uskana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", TV
+Uskana
 https://t2.tvmak.com/tv/USKANAKERCOVE.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Vizion Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Vizion
+Plus
 https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Zico TV
 https://t2.tvmak.com/tv/zicotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Honduras", Aviva TV (720p)
-https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras", EDN TV (1080p)
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras", EDN TV (1080p)
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Bolivia", Bolivia TV 7.2 (720p)
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ya.co.ve/3VJ" group-title="Bolivia", TV Latina Canal 42 (1080p)
-https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jlRMBbu.jpg" group-title="Bolivia", Alegria TV (480p)
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="Peru", AsiriTV (Lima)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320"
+group-title="Peru", AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Peru", Auténtica Televisión (720p)
+#EXTINF:-1
+tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320"
+group-title="Peru", Auténtica Televisión (720p)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="Peru", AsiriTV (Lima)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320"
+group-title="Peru", AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Peru", Auténtica Televisión (720p)
+#EXTINF:-1 
+tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320"
+group-title="Peru", Auténtica Televisión (720p)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal8catacaos/picture?width=320&height=320" group-title="Peru", Canal 8 (Catacaos)
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="Peru", ClipsTV (Ica)
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Peru", CR Television (Moyobamba)
+#EXTINF:-1
+tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320"
+group-title="Peru", CR Television (Moyobamba)
 https://live.obslivestream.com/crtvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Peru", Cultura 24 (720p)
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Peru", Genios TV (Moyobamba)
-https://live.obslivestream.com/geniostvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/JNE.Peru/picture?width=320&height=320" group-title="Peru", JNE TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/JNE.Peru/picture?width=320&height=320"
+group-title="Peru", JNE TV
 https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" group-title="Peru", LotPlus TV (Chiclayo)
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Peru", Ovación TV (720p)
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Peru", Radio San Borja TV (720p)
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/www.roriente.org/picture?width=320&height=320" group-title="Peru", RadioTV Oriente (Yurimaguas) (1080p)
-https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/StereotvOficial/picture?width=320&height=320" group-title="Peru", Stereo TV (Peru)
-https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="Peru", Sumac TV (Lima)
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="Peru", Super Canal (Yurimaguas)
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320" group-title="Peru", Turbo Mix Radio TV (480p)
+#EXTINF:-1
+tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320"
+group-title="Peru", Turbo Mix Radio TV (480p)
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Noticias.TvPalmeras/picture?width=320&height=320" group-title="Peru", TV Palmeras
-https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Espana", 7 Noticias (1080p)
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Mexico", TVMÁS (XHGV-TDT) (360p)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Mexico", TVP (720p)
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ENTRETENIMIENTO", MyTime movie network Mexico (720p)
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png"
+group-title="ENTRETENIMIENTO", MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-canal-10-9607-300x225.jpg" group-title="Dominican Republic", Vallevision Canal 10 (720p)
+#EXTINF:-1
+tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-canal-10-9607-300x22
+5.jpg" group-title="Dominican Republic", Vallevision Canal 10 (720p)
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Argentina", DW Español (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Argentina", DW Español
+(1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png" group-title="Chile", Universidad Autónoma Temuco (UATV) (1080p)
+#EXTINF:-1 tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png"
+group-title="Chile", Universidad Autónoma Temuco (UATV) (1080p)
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sfo2.digitaloceanspaces.com/elpaiscr/2019/11/Telesur-logo.jpg" group-title="COLOMBIA ⭐", COLOMBIA HQ | TELESUR (ven)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK-1e7CelCeCS9W_K2lT3hvGqAwY0gCwgFy6L0DofFR9zPyxOfqnLdjYwTwfsi989kmo&usqp=CAU" group-title="COLOMBIA ⭐", COLOMBIA HQ | DW EN ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | SERIES RETRO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | SERIES LATINAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=032e970e-6359-4c5c-8890-6886dfd37d95&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | CINE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=00fadf4b-cde1-4a5d-ab96-9295d310b30b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | PLUTO TV TEEN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=1d2e744e-7c75-4309-b013-e8026747db00&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | CINE ESTELAR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f2c03fa6-1afa-4ede-bf97-406268e3a7d1&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="COLOMBIA ⭐", COLOMBIA HQ | TELESUR HD COSTARICA
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/_Telered%2520Television.png" group-title="COLOMBIA ⭐", COLOMBIA HQ | TELERED COSTARICA
-http://k4.usastreams.com:80/ARBtv/teleplus/chunklist_w1071898513.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="COLOMBIA ⭐", COLOMBIA HQ | FRECUENCIA MUSICAL TV 1
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK-1e7CelCeCS9W_K2lT3hvG
+qAwY0gCwgFy6L0DofFR9zPyxOfqnLdjYwTwfsi989kmo&usqp=CAU" group-title="COLOMBIA ⭐", 
+COLOMBIA HQ | DW EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.
+m3u8
+#EXTINF:-1
+tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-tv-1-mund
+o-ecuador-en-vivo.jpg" group-title="COLOMBIA ⭐", COLOMBIA HQ | FRECUENCIA MUSICAL TV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="COLOMBIA ⭐", COLOMBIA HQ | ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbs9GAo-3TD2VEx3zMoHFGtqG6wCmknVwU9Kf2J_J4uaWx6jYNWjO0JC6dMR-TcRntbhI&usqp=CAU" group-title="COLOMBIA ⭐", COLOMBIA HQ | WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="COLOMBIA ⭐", COLOMBIA HQ | RETROPLUS SERIES
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/10/ready200.png" group-title="COLOMBIA ⭐", COLOMBIA HQ | READY TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal74.cl/wp-content/uploads/2020/05/canal74logo-1.png" group-title="COLOMBIA ⭐", COLOMBIA HQ | 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="COLOMBIA ⭐", COLOMBIA HQ | LA VOZ TV
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="COLOMBIA ⭐", COLOMBIA HQ | PEQUERADIO
+#EXTINF:-1
+tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.p
+ng/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_ed
+it.webp" group-title="COLOMBIA ⭐", COLOMBIA HQ | PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="COLOMBIA ⭐", COLOMBIA HQ | DUCK TV
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="COLOMBIA ⭐", COLOMBIA HQ | MONSTRUOS DE VERDAD
-https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/57238.v6.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULARISIMA ESTEREO
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/57238.v6.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULARISIMA ESTEREO
 https://radiohd.streaminghd.co:7390/stream
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/revistaelcrisol.com/wp-content/uploads/2017/03/1a-uis.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UIS ESTEREO
-http://emisoras.uis.edu.co:8000/mp3am
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671009389139140608/_chkFAwe_400x400.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOPETRAN ESTEREO
+#EXTINF:-1
+tvg-logo="https://pbs.twimg.com/profile_images/671009389139140608/_chkFAwe_400x400.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOPETRAN ESTEREO
 http://62.210.38.137:8320/;
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000722622142-9okd1m-t500x500.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UNI NORTE
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000722622142-9okd1m-t500x500.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UNI NORTE
 http://cactus2.uninorte.edu.co:1755/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/-3333.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CANTAR DE LOS ANDES
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/-3333.jpg" group-title="EMISORAS
+COLOMBIA⭐⭐⭐", COLOMBIA | CANTAR DE LOS ANDES
 http://62.210.38.137:8108/web/;web.mp3
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UOf8IWZSh7ax6FCEe4RgEgB2zt2ABUCdSvIi-asmJf_ChOC5E2QxeEKTjnIkCncH9uo" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA VIEJOTECA
-https://radio30.virtualtronics.com/proxy/laviejotecadejulio?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/arriba-colombia-2832.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ARRIBA COLOMBIA
-http://cdn.instream.audio:9137/stream
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/09/San-Sebastian-92.7-FM.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO SAN SEBASTIAN
+#EXTINF:-1
+tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/09/San-Sebastian-92.7-FM.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO SAN SEBASTIAN
 https://laradiossl.online:8006/;
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/fiesta-5100.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO FIESTA
-https://22823.live.streamtheworld.com/FIESTA_CUCUTAAAC.aac
-
-#EXTINF:-1 tvg-logo="https://airesdecolombiaradio.com/wp-content/uploads/2021/10/LOGO-AIRES-DE-COLOMBIA-768x432.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | AIRES DE COLOMBIA
-https://play10.tikast.com:20027/stream
-
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/23035.v8.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CRISTALINA
-http://149.56.147.197:9641/cNeiva
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-reloj-5197.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO RELOJ
-https://securestreams.eu:1296/stream.mp3
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vExeMZbbSU.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | HUILA ESTEREO
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vExeMZbbSU.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | HUILA ESTEREO
 https://radiohd.streaminghd.co:7220/stream
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/628985503405240322/7K88L8MK.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | NOSTALGIA RADIO
-https://emisorasvirtuales.com.co:9003/live
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217226564414451715/CRT60UlL_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MUSICA LLANERA
+#EXTINF:-1 
+tvg-logo="https://pbs.twimg.com/profile_images/1217226564414451715/CRT60UlL_400x400.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MUSICA LLANERA
 http://192.99.203.81:8704/stream
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/radio-guatapuri-2170.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO GUATAPURI
-http://198.27.88.38:7106/;
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/colmundo-radio-2971.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | COLMUNDO RADIO
-http://142.4.2.72:9992/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s86596/images/logod.png?t=3" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MELODIA ESTEREO
-https://i40.letio.com/7000.aac
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1400465763178205186/SvKXhNwk_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA FM
-https://20823.live.streamtheworld.com/LA_FM_CUCUTA_SC
-
-#EXTINF:-1 tvg-logo="https://www.radiouno.com.co/wp-content/themes/radio1/media/img/logo-radio1.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO UNO
-https://21933.live.streamtheworld.com/RADIO_UNO_NEIVA_SC
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s132610g.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | EL SOL
-https://21933.live.streamtheworld.com/EL_SOL_BOGAAC_SC
-
-#EXTINF:-1 tvg-logo="https://emisorasenvivo.co/sites/default/files/radio/logos/logo-la-mega.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | LA MEGA
-https://20823.live.streamtheworld.com/LA_FM_BUCARAMANGA_SC
-
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Popular-Stereo-95.5.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULAR ESTEREO
+#EXTINF:-1
+tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Popular-Stereo-95.5.jpg"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULAR ESTEREO
 https://radio30.virtualtronics.com/proxy/popularst?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/b5/d5b52aa91609649ec2fcfc30283c6275.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO MUNDIAL ADVENTISTA
-https://n0d.radiojar.com/aesy2chkb?rj-ttl=5&rj-tok=AAABfKpdoRgA0zHAFBaTz25Hww
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kgx3cbzkaesd.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CUMBIAS INMORTALES
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kgx3cbzkaesd.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CUMBIAS INMORTALES
 https://panel.retrolandigital.com:8120/listen
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fhdxubwtg56b.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | NITRO ESTEREO
-http://real2.streaming-co.com:8765/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KbpyMAXDLe.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | B-VIRTUAL
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KbpyMAXDLe.png"
+group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | B-VIRTUAL
 http://stream1.305stream.com:8240/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x72fqhwc7vbe.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ECOS DEL TORBE
-http://ur58.lorini.net:50006/ECOSDELTORBE
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qSWhvZZCgY.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ONDA LA SUPERESTACION
-https://acp4.lorini.net/proxy/ur2060?mp=%2Fstream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pZSf7mCeVE.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO REGGAE EN VIVO
-http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3?listen.pls
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gajfbb8apbqk.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | REGGAE KING RADIO
-http://198.178.123.17:10196/stream/1/
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/panpaujmwhwy.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ROKIT RADIO JAZZ
-http://streaming03.zfast.co.uk:8027/;
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuqyzshnt5tw.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | JAZZ EN VIVO
-http://daniel.torontocast.com:2450/stream
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vus6nx8r2m69.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | KISS JAZZ EN VIVO
-https://fred.torontocast.com:2515/stream
